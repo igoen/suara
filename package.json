@@ -1,0 +1,23 @@
+{
+  "name": "suara",
+  "version": "0.0.1",
+  "description": "Module for creating sound recognation",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoen/suara.git"
+  },
+  "keywords": [
+    "suara",
+    "node"
+  ],
+  "author": "Gunawan Probo Swandono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igoen/suara/issues"
+  },
+  "homepage": "https://github.com/igoen/suara#readme"
+}
